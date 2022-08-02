@@ -1,4 +1,4 @@
-<html> <!-- Aquí se inicia ek html -->
+<html> <!-- Aquí se inicia el html -->
         <head>
                 <title>Factorial</title>
         </head>
@@ -23,5 +23,5 @@
             return $n*factorial($n-1);
     }
     echo factorial($m);
-//el de abajo es la etiqueta de cierre, es importante ponerla su hay otras funciones que no sean PHP
+//el de abajo es la etiqueta de cierre, es importante ponerla si hay otras funciones que no sean PHP
 ?>
