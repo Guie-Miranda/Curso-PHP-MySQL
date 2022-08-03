@@ -8,7 +8,7 @@
                 <label>Ingresa un número entero: </label>
                 <input type="text" name="entrada">
                 <br> <!-- Este es el salto de linea -->
-                <button type="submit">Calcular</button>
+                <button type="submit">Calcular</button> <!-- Esto agrega un boton para presionar -->
                 <br>
                 <label>El resultado es: </label>
             </form>
